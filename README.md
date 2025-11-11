@@ -4,6 +4,8 @@
 
 This project is a game called Kitchen Chaos, It was built using the Unity game engine with a beginner to intermediate tutorial by Code Monkey. I understand all the coding concepts that were used in this game and I have tried to showcase that with comments throughout the code. You can play the game here: [Kitchen Chaos](https://oebsworth.itch.io/unity-kitchen-chaos).
 
+Here is the tutorial that the game is based off of: [Learn Unity Beginner/Intermediate 2025 (FREE COMPLETE Course - Unity Tutorial)](https://www.youtube.com/watch?v=AmGSEH7QcDg&ab_channel=CodeMonkey).
+
 ---
 
 ## Screenshots
